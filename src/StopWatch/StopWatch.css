@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(145, 194, 54);
+    text-align: center;
+    margin-top: 200px;
+}
+.but1{
+    background-color: rgb(236, 65, 94);
+     width: 120px;
+     height: 30px;
+}
+.but2{
+    background-color: rgb(27, 97, 124);
+     width: 120px;
+     height: 30px;
+}
+.but3{
+    background-color: rgb(168, 118, 168);
+    width: 120px;
+     height: 30px;
+}
+
+.but1:hover{
+    background-color: palevioletred;
+ 
+}
+.but2:hover{
+    background-color: skyblue;
+}
